@@ -4,3 +4,13 @@ test: Test/images
 
 nc: 3
 names: ['Bolt', 'Nut', 'washer']
+
+# Hyperparameters
+scale=0.7
+shear=45
+flipud=0.3
+fliplr=0.5
+translate=0.2
+hsv_v=0.6
+hsv_s=0.2
+hsv_h=0.1
