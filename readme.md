@@ -1,4 +1,4 @@
-# Data for object size calculation
+# Data for object real size calculation
 
 ## Data source:
 https://universe.roboflow.com/jente-kleinh/nuts-and-bolts
